@@ -2,13 +2,14 @@
 
 # Table of Contents
 - [Introduction](#introduction)
-- [Choosing a build tool](#Choosing-a-build-tool)
-- [Build tool](#despair)
-- [Insert the data into the HTML](#Insert-the-data-into-the-HTML)
-- [Compiling JS and CSS](#Compiling-JS-and-CSS)
-- [Strict code rules](#Strict-code-rules)
-- [Making our lifes easier](#Making-our-lifes-easier)
-- [Conclusion](#Conclusion)
+- [Choosing a build tool](#choosing-a-build-tool)
+- [Build tool](#build-tool)
+- [Insert the data into the HTML](#insert-the-data-into-the-HTML)
+- [Compiling JS and CSS](cCompiling-JS-and-CSS)
+- [Strict code rules](#strict-code-rules)
+- [Making our lifes easier](#making-our-lifes-easier)
+- [Conclusion](#conclusion)
+- [Sources](#sources)
 
 ## Introduction
 For the final project of the minor, its up to me to make a code setup with build tools.
@@ -62,4 +63,7 @@ Something to make coding a little more relaxed is "Nodemon". This little module 
 ## Conclusion
 Build tools and modules are cool. I get why a lot of developers work with it. I learned a lot of it and it made our project a little easier. I will definitely keep using these tools and modules.
 
+## Sources
+- [What are build tools?](https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b)
+- [Why NPM script?](https://css-tricks.com/why-npm-scripts/)
 
