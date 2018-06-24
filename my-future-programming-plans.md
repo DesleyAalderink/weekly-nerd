@@ -1,3 +1,10 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [Some backstory](#some-backstory)
+- [Minor self reflection](#minor-self-reflectiom)
+- [After the minor](#after-the-minor)
+- [Conclusion](#conclusion)
+
 # Introduction
 The minor is almost over. I had a tough, but fun and most importantly, I learned a lot.
 Its time to think about the future. What will I do now? and how do I see myself in the future?
@@ -27,3 +34,8 @@ I still think I need to improve a lot if I want to be hired.
 Eventually I want to go into the company a friend of mine has been setting up over the last few years. 
 I already did a few jobs for him and he said he would love for me to join the team. 
 In his company there are programmers way above my league under which I can study under.
+I will aim for the top.
+
+## Conclusion
+I have been studying for a long time but, one thing is for certain. I want to be a front ender. The road is never ending
+but, I love to do it. I have a lot to learn and I will try my hardest to keep up with all of my competitors.
