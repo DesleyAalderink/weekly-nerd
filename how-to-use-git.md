@@ -1,5 +1,15 @@
 # How to use git in a team project
 
+# Table of Contents
+- [Introduction](#introduction)
+- [How to start](#how-to-start)
+- [PUSH](#push)
+- [PULL](#pull)
+- [BRANCH](#branch)
+- [PULL REQUEST](#pull-request)
+- [Making our lifes easier](#making-our-lifes-easier)
+- [Conflicts](#conflicts)
+
 ## Introduction
 Oke, so this was something that was like magic to me. How do people use git?
 Once you practised with it, its easy.
@@ -39,5 +49,3 @@ Make a pull request and when there are no conflicts you can succesfully merge an
 
 ## CONFLICTS
 But what happens when there are conflicts? this mostly happens when you are programming on the same file as one of your teammates. No worries! You can resolve it. Choose to resolve and now the only thing you have to do is fix whats wrong.
-
-GOODLUCK!
