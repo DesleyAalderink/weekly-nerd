@@ -20,7 +20,7 @@ I started my research by finding out what my project needs. It needed to do the 
 ## Build tool
 Choosing a build tool is difficult. The #1 problem with build tools is that they get outdated really fast. I decided to play it safe and just use NPM Scripts. Everything we want to achieve can be done with NPM Scripts without some rubbish extra modules that gets installed like Gulp does.
 
-![EJS](sketchnotes/img/npmscript.png)
+![NPMscript](sketchnotes/img/npmscript.jpg)
 
 ## Inert the data into the HTML
 I started by going through the list. A quick and easy tool to insert data into HTML is "EJS".
@@ -31,15 +31,17 @@ It's something I have experience with because I use it for almost all of my proj
 ## Compiling JS and CSS
 This was something new for me. A lot of developers are compiling JS and CSS for a faster performance AND a more functional way to write code. When searching online I found a toold called "Rollup JS" what will do exactly what we want. It will only work with ES6 but, that works out great for us, because we want to work with ES6.
 
-![EJS](sketchnotes/img/rollup.jpg)
+![Rollup](sketchnotes/img/rollup.jpg)
 
 ## Strict code rules
 Because we are working in a team of 4, we need something to make sure we are using the same code rules. We all need to think on the same line. We need a linter. A good and easy to use linter is "eslint". We can modify the rules to our benefit and it will give good errors for us to see.
 
-![EJS](sketchnotes/img/eslint.png)
+![Eslint](sketchnotes/img/eslint.png)
 
 ## Making our lifes easier
 Something to make coding a little more relaxed is "Nodemon". This little module will restart the server after every safe. It also comes with a function called "watch" that will help compile the CSS and JS when the server gets restarted.
+
+![Eslint](sketchnotes/img/nodemon.png)
 
 ## Conclusion
 Build tools and modules are cool. I get why a lot of developers work with it. I learned a lot of it and it made our project a little easier. I will definitely keep using these tools and modules.
