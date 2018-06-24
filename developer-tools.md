@@ -50,6 +50,7 @@ Because we are working in a team of 4, we need something to make sure we are usi
 * A space before the "{"
 * ES6 only
 * Capital letters with ID's and classes
+* Use tabs and no spaces
 
 ![Eslint](sketchnotes/img/eslint.png)
 
