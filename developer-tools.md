@@ -44,7 +44,12 @@ This was something new for me. A lot of developers are compiling JS and CSS for 
 ![Rollup](sketchnotes/img/rollup.jpg)
 
 ## Strict code rules
-Because we are working in a team of 4, we need something to make sure we are using the same code rules. We all need to think on the same line. We need a linter. A good and easy to use linter is "eslint". We can modify the rules to our benefit and it will give good errors for us to see.
+Because we are working in a team of 4, we need something to make sure we are using the same code rules. We all need to think on the same line. We need a linter. A good and easy to use linter is "eslint". We can modify the rules to our benefit and it will give good errors for us to see. The rules were: 
+
+* No ;
+* A space before the "{"
+* ES6 only
+* Capital letters with ID's and classes
 
 ![Eslint](sketchnotes/img/eslint.png)
 
