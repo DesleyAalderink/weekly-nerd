@@ -17,6 +17,16 @@ Moodle is of to a good start. let's click the button and move on!
 WHAT?! You can even skip more useless content!
 This website has it all figured out.
 
+## Moodle focus state
+A focus state that gets the attention is something that can play out in your favour.
+It can get attention and people will notice right away where they are.
+Lets see how Moodle does it.
+
+![Moodle focus](sketchnotes/img/moodlefocus.png)
+
+hmmm it seems they are using the default :focus state. 
+I was expecting a litte more, but it still gets the job done.
+
 ## Moodle Colour Contrast
 Seeing as the tab works perfectly, what aboutthe colour contrast? I have a usefull tool which can assist me with this called "Colour Contrast Analyzer". Let's start with the foreground and background contrast of the text en information displayed on the page.
 
@@ -28,3 +38,7 @@ nothing wrong here.
 ![Moodle colour contrast](sketchnotes/img/moodlecolourcontrast2.png)
 
 Auch! not as perfect as I hoped. 
+
+![Moodle colour contrast](sketchnotes/img/moodlecolourcontrast3.png)
+
+This is just bad. The contrast is totally off.
