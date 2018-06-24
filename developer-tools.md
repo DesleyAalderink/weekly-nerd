@@ -1,4 +1,4 @@
-# A dive into developer tools
+# A dive into developer tools and modules
 
 ## Introduction
 For the final project of the minor, its up to me to make a code setup with build tools.
@@ -11,10 +11,16 @@ I always wanted to learn more about this subject, so I dove into the web and mad
 There is a huge list of build tools to choose from, but what do I choose?
 I started my research by finding out what my project needs. It needed to do the following:
 
+* A build tool
 * Insert the data into the HMTL
 * Compile the JS and CSS for faster performance
 * Make strict code rules for our groep
 * Something to make our lifes easier 
+
+## Build tool
+Choosing a build tool is difficult. The #1 problem with build tools is that they get outdated really fast. I decided to play it safe and just use NPM Scripts. Everything we want to achieve can be done with NPM Scripts without some rubbish extra modules that gets installed like Gulp does.
+
+![EJS](sketchnotes/img/npmscript.png)
 
 ## Inert the data into the HTML
 I started by going through the list. A quick and easy tool to insert data into HTML is "EJS".
@@ -30,11 +36,12 @@ This was something new for me. A lot of developers are compiling JS and CSS for 
 ## Strict code rules
 Because we are working in a team of 4, we need something to make sure we are using the same code rules. We all need to think on the same line. We need a linter. A good and easy to use linter is "eslint". We can modify the rules to our benefit and it will give good errors for us to see.
 
-![EJS](sketchnotes/img/eslint.jpg)
+![EJS](sketchnotes/img/eslint.png)
 
 ## Making our lifes easier
+Something to make coding a little more relaxed is "Nodemon". This little module will restart the server after every safe. It also comes with a function called "watch" that will help compile the CSS and JS when the server gets restarted.
 
 ## Conclusion
-
+Build tools and modules are cool. I get why a lot of developers work with it. I learned a lot of it and it made our project a little easier. I will definitely keep using these tools and modules.
 
 
