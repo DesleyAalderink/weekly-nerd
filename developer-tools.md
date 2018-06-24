@@ -20,7 +20,7 @@ I started my research by finding out what my project needs. It needed to do the 
 ## Build tool
 Choosing a build tool is difficult. The #1 problem with build tools is that they get outdated really fast. I decided to play it safe and just use NPM Scripts. Everything we want to achieve can be done with NPM Scripts without some rubbish extra modules that gets installed like Gulp does.
 
-![NPMscript](sketchnotes/img/npmscript.jpg)
+![NPMscript](sketchnotes/img/npmscript.png)
 
 ## Inert the data into the HTML
 I started by going through the list. A quick and easy tool to insert data into HTML is "EJS".
