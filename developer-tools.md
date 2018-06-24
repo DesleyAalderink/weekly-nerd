@@ -1,5 +1,15 @@
 # A dive into developer tools and modules
 
+# Table of Contents
+- [Introduction](#introduction)
+- [Choosing a build tool](#Choosing-a-build-tool)
+- [Build tool](#despair)
+- [Insert the data into the HTML](#Insert-the-data-into-the-HTML)
+- [Compiling JS and CSS](#Compiling-JS-and-CSS)
+- [Strict code rules](#Strict-code-rules)
+- [Making our lifes easier](#Making-our-lifes-easier)
+- [Conclusion](#Conclusion)
+
 ## Introduction
 For the final project of the minor, its up to me to make a code setup with build tools.
 We had a basic set up that involves Gulp but, Danny (our mentor) adviced us to start from scratch.
@@ -22,7 +32,7 @@ Choosing a build tool is difficult. The #1 problem with build tools is that they
 
 ![NPMscript](sketchnotes/img/npmscript.png)
 
-## Inert the data into the HTML
+## Insert the data into the HTML
 I started by going through the list. A quick and easy tool to insert data into HTML is "EJS".
 It's something I have experience with because I use it for almost all of my projects. Its fast and easy to use.
 
