@@ -1,7 +1,5 @@
 # Introduction
-After I saw the talk of Ischa Gast at Schiphol talking about accessibility on the internet I got curious. 
-In my minor that's linked with my education they always say that accessibility is really important and that you should always
-design for it. I wonder, is the internal website from my education made accessible? Let's find out!
+On Wednesday march 28th my minor class and I when to see Ischa Gast at Schiphol talking about accessibility on the internet. Ischa is the kind of guy who after testing a website for accessibility he will Tweet about it in the hope that the problem will get fixed. After Ischa's talk I got curious. In my minor that's linked with my education they always say that accessibility is really important and that you should always design for it. I wonder, is the internal website from my education made accessible? Let's find out!
 
 ## Moodle Tab Navigation
 Moodle is a platform where we can find our classes and homework. Let's start with a tab navigation.
@@ -42,3 +40,6 @@ Auch! not as perfect as I hoped.
 ![Moodle colour contrast](sketchnotes/img/moodlecolourcontrast3.png)
 
 This is just bad. The contrast is totally off.
+
+## Conclusion
+Moodle has a really good tab navigation. You can skip right to the main content. Most of the color contrast is on point but, there are still a few contrast problems. If these things get fixed, the site will be perfect for accessibility!
